@@ -2831,16 +2831,7 @@ li.row-uezxzk {
     padding-bottom: 0;
 }
 
-.headerText-3MQ6n4 .channelNameSpan-2CGJt7,
-.message-1zs6Od .messageContent-1SOr75 {
-    font-size: initial !important;
-    font-weight: normal;
-    font-family: var(--font-primary);
-    margin: unset;
-    color: var(--text-muted);
-    height: max-content;
-    white-space: break-spaces;
-}
+
 
 .headerText-3MQ6n4 .channelNameSpan-2CGJt7 {
     color: var(--header-primary);
